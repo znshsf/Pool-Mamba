@@ -8,3 +8,8 @@ Pool-Mamba: Pooling State Space Model for Low-Light Image Enhancement
 * LOLv1:[LOLv1](https://pan.baidu.com/s/10oeXhPQBbnBQAiLw2_X_UA?pwd=d53a), 提取码: d53a 
 * LOLv2_real:[LOLv2_real](https://pan.baidu.com/s/1JTN47nq8qJpCF67Pay-Q2g?pwd=mgw9), 提取码: mgw9 
 * LOLv2_syn:[LOLv2_syn](https://pan.baidu.com/s/1tjih9somIiQEvvfzkXQKEw?pwd=tm7c), 提取码: tm7c 
+# How to train and test.
+* python main.py --mode train
+* python main.py --mode test
+# Datasets (including LOLv1, LOLv2_real, LOLv2_syn)
+* Datasests[Datasets](https://pan.baidu.com/s/1Zioxub720l9Tex1zLwx4sQ?pwd=q7i4), 提取码: q7i4 
